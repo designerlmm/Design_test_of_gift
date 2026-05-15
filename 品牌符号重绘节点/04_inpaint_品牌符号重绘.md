@@ -1,0 +1,33 @@
+
+  
+ 仅替换毛发重绘小狗脖子上的项圈和吊牌，严格参考 Image_2 的款式。
+
+  项圈：
+  - 颜色：红色（材质不限，皮革、布质、编织、丝带等均可）
+  - 自然环绕脖子，紧贴毛发，无悬浮、无穿模
+  - 厚度适中，不要过粗或过细
+
+  吊牌（关键 — 镂空设计）：
+  - 形状：金色金属【镂空圆环】（open metal ring / hollow donut shape），
+    不是实心圆盘，不是奖牌，不是硬币
+  - 结构：外圈是一圈细金色金属环，【圆环中心完全透空】，
+    必须能透过中心看到小狗胸前的毛发或衣物
+  - 装饰：圆环内部中央悬挂一个独立的小号金色音符符号，
+    音符与外环之间保留可见空隙
+  - 挂法：通过金色 O 型连接环挂在项圈正中央，位于胸前
+  - 质感：光滑金属高光，匹配原图 3D 动画光影
+
+  【尺寸限制 — 适中即可】：
+  - 吊牌外圈直径 ≈ 小狗鼻子的 1-1.5 倍大小
+  - 吊牌外圈直径在小狗头部宽度的 1/4 到 1/2 之间均可接受
+  - 吊牌整体高度（含 O 型连接环）≤ 小狗胸前可见区域高度的 1/3
+  - 视觉上是一个【中小号的挂坠 / 饰品】，
+    能清晰看出是镂空音符设计即可，
+    只要不是夸张占满胸口的大奖牌都可以接受
+
+  负向约束（Negative）：
+  solid medallion, filled disc, coin-shaped tag, engraved plate,
+  opaque pendant, closed badge, name tag,
+  giant pendant covering entire chest,
+  medallion larger than dog's head,
+  tag dominating the whole front body
